@@ -7,7 +7,7 @@ using MovieApp.Models;
 //comment
 namespace MovieApp.Controllers
 {
-    //comment
+    //comment one
     public class HomeController : Controller
     {
         private MoviesDBEntities _db = new MoviesDBEntities();
